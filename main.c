@@ -2,5 +2,5 @@
 void main()
 {
   printf("Hello World");
-  prinf("Welcome to CMRIT");
+  prinf("Welcome to CMRIT\n");
 }
